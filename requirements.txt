@@ -1,0 +1,10 @@
+PyQt6
+sounddevice
+openai-whisper
+python-osc
+pycryptodome
+edge-tts
+boto3
+elevenlabs
+requests
+configparser
